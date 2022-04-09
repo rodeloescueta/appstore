@@ -20,7 +20,7 @@
     "core-js": "^2.6.5",
     "froala-editor": "^3.0.6",
     "md5-hex": "^3.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pdfvuer": "^1.4.0",
     "register-service-worker": "^1.6.2",
     "rrule": "^2.6.4",
